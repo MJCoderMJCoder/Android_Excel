@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\9fb15a8eb015838f4beef06eaee5c954\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\1a30175997dae49ea4aa9ca6d0f151fd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\f363ab41a173bfcc0016d461ded6071e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f3aa70f999476b872b3f1af52e025491\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\9fb15a8eb015838f4beef06eaee5c954\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\9fb15a8eb015838f4beef06eaee5c954\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\1a30175997dae49ea4aa9ca6d0f151fd\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\1a30175997dae49ea4aa9ca6d0f151fd\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\f363ab41a173bfcc0016d461ded6071e\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\f363ab41a173bfcc0016d461ded6071e\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f3aa70f999476b872b3f1af52e025491\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f3aa70f999476b872b3f1af52e025491\AndroidManifest.xml:20:5-43
+INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\9fb15a8eb015838f4beef06eaee5c954\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:11:22-77
+application
+ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:13:5-27:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\9fb15a8eb015838f4beef06eaee5c954\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\9fb15a8eb015838f4beef06eaee5c954\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\1a30175997dae49ea4aa9ca6d0f151fd\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\1a30175997dae49ea4aa9ca6d0f151fd\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\f363ab41a173bfcc0016d461ded6071e\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\f363ab41a173bfcc0016d461ded6071e\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f3aa70f999476b872b3f1af52e025491\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f3aa70f999476b872b3f1af52e025491\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.lxj.execldemo.MainActivity
+ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from E:\Android\workspace\Android_Excel\app\src\main\AndroidManifest.xml:24:27-74
